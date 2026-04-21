@@ -2,7 +2,7 @@
 
 Профессиональный сайт франшизы кофейни **Supa Coffee**. Современный адаптивный дизайн с плавными анимациями и полной функциональностью. 
 
-**Посмотреть сайт:** https://rasul-max-oss.github.io/Supa-Coffee/
+**Посмотреть сайт:** https://rasul-max-oss.github.io/Supa-Coffee.-Landing-page/
 
 ## Особенности
 
